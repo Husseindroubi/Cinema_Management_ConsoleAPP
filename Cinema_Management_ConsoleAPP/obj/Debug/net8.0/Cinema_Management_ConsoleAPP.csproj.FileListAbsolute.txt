@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\bin\Debug\net8.0\Cinema_Management_ConsoleAPP.exe
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\bin\Debug\net8.0\Cinema_Management_ConsoleAPP.deps.json
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\bin\Debug\net8.0\Cinema_Management_ConsoleAPP.runtimeconfig.json
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\bin\Debug\net8.0\Cinema_Management_ConsoleAPP.dll
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\bin\Debug\net8.0\Cinema_Management_ConsoleAPP.pdb
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.dll
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\refint\Cinema_Management_ConsoleAPP.dll
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.pdb
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\Cinema_Management_ConsoleAPP.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Cinema_Management_ConsoleAPP\Cinema_Management_ConsoleAPP\obj\Debug\net8.0\ref\Cinema_Management_ConsoleAPP.dll
