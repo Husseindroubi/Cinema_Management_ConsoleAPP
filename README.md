@@ -1,1 +1,1 @@
-# Cinema_Management_ConsoleAPP
+# Cinema Management Console APP
